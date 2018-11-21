@@ -35,3 +35,10 @@
 ##### 编制单位校对人：第宝锋 副院长
 
 ##### 编制单位技术人：田兵伟 副教授
+
+kkkkkkkkkkkk
+
+------------------------------------------
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
