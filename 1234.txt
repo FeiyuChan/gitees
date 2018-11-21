@@ -1,5 +1,8 @@
 ###### 香港赛马会四川持续发展项目之
-
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
+Git tracks changes.
 <br> <br> <br> <br> <br>
 
 <center>
